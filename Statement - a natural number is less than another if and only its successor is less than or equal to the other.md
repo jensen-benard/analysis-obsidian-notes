@@ -13,7 +13,7 @@ Suppose $a \lt b$.
 
 By [[Definition - order of natural numbers]], this is equivalent to $a \leq b$ where $a \neq b$. Hence, can be written as
 $$b = a + n$$
-for some natural number $n \neq 0$, since otherwise $b = a$ from [[Statement - addition of identity on second term]].
+for some natural number $n \neq 0$, since otherwise $b = a$ from [[Statement - adding with zero on the second term leaves the natural number unchanged]].
 
 By [[Definition - positive natural numbers]], this means $n$ is a positive number.
 
@@ -21,7 +21,7 @@ Hence, since [[Statement - every positive number has a unique predecessor]], the
 $$m\texttt{++} = n$$
 We can substitute this into $b = a + n$ and maintain $a \lt b$, giving
 $$b = a + m\texttt{++}$$
-By [[Statement - addition with successor on second term]],
+By [[Statement - addition with successor on second term equals successor of the sum]],
 $$ b = a + m\texttt{++} = (a + m)\texttt{++} = a\texttt{++} + m$$
 Hence, by [[Definition - order of natural numbers]],
 $$b \geq a\texttt{++}$$
@@ -34,7 +34,7 @@ By [[Definition - order of natural numbers]], this is equivalent to
 $$b = a\texttt{++} + k$$
 for some natural number $k$.
 
-By [[Definition - addition]] and [[Statement - addition with successor on second term]],
+By [[Definition - addition]] and [[Statement - addition with successor on second term equals successor of the sum]],
 $$b = a\texttt{++} + k = (a + k)\texttt{++} = a + k\texttt{++}$$
 Since [[Statement - every positive number has a unique predecessor]], there exists a positive number $j$ where $k$ is its predecessor such that,
 $$k\texttt{++} = j$$
@@ -46,4 +46,4 @@ By [[Definition - addition]], this means $b \neq a$ and so $b = a + j$ is equiva
 $$ b \gt a$$
 from the [[Definition - order of natural numbers]].
 
-Since we have proven both directions, the statement is proven.
+Since we have proven both directions, the statement is proven true.

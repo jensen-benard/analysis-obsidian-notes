@@ -4,10 +4,6 @@ tags: #collection
 2.  [[Statement - order of natural numbers is transitive]]
 3. [[Statement - order of natural numbers is anti-symmetric]]
 4. [[Statement - addition preserves order of natural numbers]]
-5. [[Statement - relation of successor to the order of natural numbers]]
-6. $a \lt b$ if and only if $b = a + d$ for some positive number $d$
-7.  Trichotomy of order of natural numbers
-	- Let $a$ and $b$ be natural numbers. Then exactly one of the following statements is true
-		- $a \lt b$
-		- $a = b$
-		- $a \gt b$
+5. [[Statement - a natural number is less than another if and only its successor is less than or equal to the other]]
+6. [[Statement - a natural number is less than another if and only if the second can be written as the first plus a positive number]]
+7. [[Statement - order of natural numbers follows the law of trichotomy]]

@@ -16,7 +16,7 @@ From [[Definition - addition]], we get LHS:
 $$0 + m = m$$
 since [[Axiom - zero is a natural number]].
 
-And from [[Statement - addition of identity on second term]], we get RHS:
+And from [[Statement - adding with zero on the second term leaves the natural number unchanged]], we get RHS:
 $$m + 0 = m$$
 Since LHS $=$ RHS, the base case is proven.
 
@@ -30,6 +30,6 @@ From [[Definition - addition]], we get LHS:
 $$n\texttt{++} + m = (n + m)\texttt{++}$$
 since [[Axiom - successor is a natural number]], hence $n\texttt{++}$ is a natural number.
 
-Similarly, from [[Statement - addition with successor on second term]] and our inductive assumption, we get RHS:
+Similarly, from [[Statement - addition with successor on second term equals successor of the sum]] and our inductive assumption, we get RHS:
 $$m + n\texttt{++} = (m + n)\texttt{++} = (n + m)\texttt{++}$$
 Since LHS $=$ RHS, we have closed the induction. And the statement is proven from [[Axiom - principle of mathematical induction]].

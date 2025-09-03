@@ -19,12 +19,12 @@ By [[Statement - addition is associative]], this is equivalent to
 $$a = a + (m + n)$$
 From [[Statement - cancellation law of addition]], $a = 0$. Hence,
 $$0 = m + n$$
-And by [[Statement - zero sum law]], $m = 0$ and $n = 0$.
+And by [[Statement - sum of two natural numbers equating to zero are both zero themselves]], $m = 0$ and $n = 0$.
 
 Therefore, substituting $m = 0$ and $n = 0$ back into $b = a + m$ and $a = b + n$, we get
 $$b = a + 0$$
 $$a = b + 0$$
 respectively.
 
-By [[Statement - addition of identity on second term]], we conclude $b = a$.
+By [[Statement - adding with zero on the second term leaves the natural number unchanged]], we conclude $b = a$.
 

@@ -21,7 +21,7 @@ We assume inductively:
 $$(a + b) + c = a + (b + c)$$
 So we need to prove:
 $$(a\texttt{++} + b) + c = a\texttt{++} + (b + c)$$
-From [[Definition - addition]] and [[Statement - addition with successor on second term]], we get LHS:
+From [[Definition - addition]] and [[Statement - addition with successor on second term equals successor of the sum]], we get LHS:
 $$(a\texttt{++} + b) + c  = (a + b)\texttt{++} + c = ((a + b) + c)\texttt{++}$$
 since from [[Axiom - successor is a natural number]], $a\texttt{++}$ is a natural number.
 
