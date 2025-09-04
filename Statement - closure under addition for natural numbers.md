@@ -11,7 +11,7 @@ We induct on $n$.
 
 We must prove the statement for the case $n = 0$, where
 $$0 + m$$
-By [[Definition - addition]], this gives
+By [[Definition - addition of natural numbers]], this gives
 $$0 + m = m$$
 Hence, $0 +m$ is a natural number.
 
@@ -19,7 +19,7 @@ Hence, $0 +m$ is a natural number.
 
 Assume the statement is true for $n$. We must prove the statement for $n\texttt{++}$, where
 $$n\texttt{++} + m$$
-By [[Definition - addition]],
+By [[Definition - addition of natural numbers]],
 $$n\texttt{++} + m = (n + m)\texttt{++}$$
 Since we assumed the statement is true for $n$, then $n+m$ is a natural number.
 

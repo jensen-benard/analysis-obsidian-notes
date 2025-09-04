@@ -14,9 +14,9 @@ By [[Definition - order of natural numbers]], $a \geq b$ is equivalent to
 $$a = b + n$$
 for some natural number $n$.
 
-By [[Definition - addition]], we can add $c$ to both sides to give
+By [[Definition - addition of natural numbers]], we can add $c$ to both sides to give
 $$a + c = (b + n) + c$$
-By [[Statement - addition is associative]] and [[Statement - addition is commutative]], we get
+By [[Statement - addition is associative for natural numbers]] and [[Statement - addition is commutative for natural numbers]], we get
 $$a + c = b + (n + c) = b + (c + n) = (b + c) + n$$
 Hence, by [[Definition - order of natural numbers]], this is equivalent to
 $$a + c \geq b + c$$
@@ -28,11 +28,11 @@ By [[Definition - order of natural numbers]], this is equivalent to
 $$a + c = (b + c) + m$$
 for some natural number $m$.
 
-By [[Statement - addition is associative]] and [[Statement - addition is commutative]], we have
+By [[Statement - addition is associative for natural numbers]] and [[Statement - addition is commutative for natural numbers]], we have
 $$(b + c) + m = b + (c + m) = b + (m + c) = (b + m) + c$$
 Hence,
 $$a + c = (b + m) + c$$
-By [[Statement - cancellation law of addition]], this gives
+By [[Statement - cancellation law of addition for natural numbers]], this gives
 $$a = b + m$$
 Again, by [[Definition - order of natural numbers]], this is equivalent to 
 $$ a \geq b $$

@@ -14,6 +14,6 @@ for some natural number $n$.
 We pick $n = 0$, giving
 $$a = a + 0$$
 
-By [[Statement - adding with zero on the second term leaves the natural number unchanged]],
+By [[Statement - addition with zero on second term for natural numbers]],
 $$a = a$$
 Hence, $a \geq a$ is true and the statement is proven.

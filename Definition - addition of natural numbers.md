@@ -1,6 +1,6 @@
 tags: #definition
 
-We define the addition operation recursively from [[Statement - recursive definitions exists for natural numbers]].
+We define the addition operation recursively from [[Statement - recursive principle for natural numbers]].
 
 Let $m$ be a [[The Peano Axioms|natural number]]. 
 

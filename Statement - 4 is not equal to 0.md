@@ -6,7 +6,7 @@ $4$ is not equal to $0$.
 
 ## Proof
 
-By [[Definition - arabic numerals notation]], $4 = 3\texttt{++}$.
+We know $4 = 3\texttt{++}$.
 
 We know [[Statement - 3 is a natural number]].
 

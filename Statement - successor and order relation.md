@@ -13,15 +13,15 @@ Suppose $a \lt b$.
 
 By [[Definition - order of natural numbers]], this is equivalent to $a \leq b$ where $a \neq b$. Hence, can be written as
 $$b = a + n$$
-for some natural number $n \neq 0$, since otherwise $b = a$ from [[Statement - adding with zero on the second term leaves the natural number unchanged]].
+for some natural number $n \neq 0$, since otherwise $b = a$ from [[Statement - addition with zero on second term for natural numbers]].
 
 By [[Definition - positive natural numbers]], this means $n$ is a positive number.
 
-Hence, since [[Statement - every positive number has a unique predecessor]], there exists a natural number $m$, where
+Hence, since [[Statement - every positive natural number has a unique natural number predecessor]], there exists a natural number $m$, where
 $$m\texttt{++} = n$$
 We can substitute this into $b = a + n$ and maintain $a \lt b$, giving
 $$b = a + m\texttt{++}$$
-By [[Statement - addition with successor on second term equals successor of the sum]],
+By [[Statement - addition with successor on second term for natural numbers]],
 $$ b = a + m\texttt{++} = (a + m)\texttt{++} = a\texttt{++} + m$$
 Hence, by [[Definition - order of natural numbers]],
 $$b \geq a\texttt{++}$$
@@ -34,15 +34,15 @@ By [[Definition - order of natural numbers]], this is equivalent to
 $$b = a\texttt{++} + k$$
 for some natural number $k$.
 
-By [[Definition - addition]] and [[Statement - addition with successor on second term equals successor of the sum]],
+By [[Definition - addition of natural numbers]] and [[Statement - addition with successor on second term for natural numbers]],
 $$b = a\texttt{++} + k = (a + k)\texttt{++} = a + k\texttt{++}$$
-Since [[Statement - every positive number has a unique predecessor]], there exists a positive number $j$ where $k$ is its predecessor such that,
+Since [[Statement - every positive natural number has a unique natural number predecessor]], there exists a positive number $j$ where $k$ is its predecessor such that,
 $$k\texttt{++} = j$$
 Substituting $j$ into $b = a + k\texttt{++}$, we get
 $$b = a + j$$
 By [[Definition - positive natural numbers]], $j \neq 0$. 
 
-By [[Definition - addition]], this means $b \neq a$ and so $b = a + j$ is equivalent to 
+By [[Definition - addition of natural numbers]], this means $b \neq a$ and so $b = a + j$ is equivalent to 
 $$ b \gt a$$
 from the [[Definition - order of natural numbers]].
 

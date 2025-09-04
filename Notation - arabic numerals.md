@@ -1,4 +1,4 @@
-tags: #definition 
+tags: #notation 
 
 We define $1$ to be $0\texttt{++}$, $2$ to be the number $(0\texttt{++})\texttt{++}$, 3 to be the number $((0\texttt{++})\texttt{++})\texttt{++}$, etc.
 

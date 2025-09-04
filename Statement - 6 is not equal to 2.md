@@ -8,11 +8,11 @@ tags: #statement
 
 Suppose $6 = 2$.
 
-Then by [[Definition - arabic numerals notation]], $5\texttt{++} = 1\texttt{++}$.
+Then this is equivalent to, $5\texttt{++} = 1\texttt{++}$.
 
 Hence, by [[Axiom - injectivity of successor]], $5 = 1$.
 
-Hence by [[Definition - arabic numerals notation]] again, $4\texttt{++} = 0\texttt{++}$.
+Hence, again, this is equivalent to, $4\texttt{++} = 0\texttt{++}$.
 
 Finally, by [[Axiom - injectivity of successor]] again, $4 = 0$.
 

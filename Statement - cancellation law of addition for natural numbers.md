@@ -15,7 +15,7 @@ We induct on $a$.
 
 We must prove the base case for $a = 0$, where:
 $$0 + b = 0 + c$$
-From [[Definition - addition]], we get:
+From [[Definition - addition of natural numbers]], we get:
 $$ b = c $$
 since [[Axiom - zero is a natural number]].
 
@@ -25,7 +25,7 @@ Hence we have proved the base case.
 
 We assume inductively that $a + b = a + c$, hence we must prove:
 $$a\texttt{++} + b = a\texttt{++} + c$$
-From [[Definition - addition]], we get LHS:
+From [[Definition - addition of natural numbers]], we get LHS:
 $$a\texttt{++} + b = (a + b)\texttt{++}$$
 since from [[Axiom - successor is a natural number]], $a\texttt{++}$.
 

@@ -17,7 +17,7 @@ Suppose $a \lt b$, as given from the statement.
 
 By [[Definition - order of natural numbers]], 
 $$a \neq b$$
-Since [[Statement - adding with zero on the second term leaves the natural number unchanged]]. This means,
+Since [[Statement - addition with zero on second term for natural numbers]]. This means,
 $$b = a + d$$
 for some natural number $d$, where $d \neq 0$.
 
@@ -29,7 +29,7 @@ Suppose $b = a + d$, as given from the statement.
 
 By [[Definition - positive natural numbers]], 
 $$d \neq 0$$
-Since [[Statement - adding with zero on the second term leaves the natural number unchanged]], 
+Since [[Statement - addition with zero on second term for natural numbers]], 
 $$b \neq a$$
 since $d = 0$, hence $a + 0$, is required for $b = a$.
 
