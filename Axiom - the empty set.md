@@ -1,0 +1,5 @@
+tags: #axiom 
+
+There exists a set $\emptyset$, known as the empty set, which contains no elements.
+
+i.e for every object $x$ we have $x \notin \emptyset$

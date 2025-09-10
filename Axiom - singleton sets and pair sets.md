@@ -1,0 +1,11 @@
+tags: #axiom 
+
+If $a$ is an object, then there exists a set $\{a\}$ whose only element is $a$.
+
+i.e. for every object $y$, we have $y \in \{a\}$ if and only if $y = a$; we refer $\{a\}$ as the singleton set whose element is $a$.
+
+Furthermore, if $a$ and $b$ are objects, then there exists a set $\{a, b\}$ whose only elements are $a$ and $b$.
+
+i.e. for every object $y$, we have $y \in \{a,b\}$ if and only if $y = a$ or $y = b$.
+
+we refer to this set as the pair set formed  by $a$ and $b$.

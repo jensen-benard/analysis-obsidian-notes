@@ -1,0 +1,15 @@
+tags: #collection 
+
+1. [[Statement - minimal element of union of sets]]
+2. [[Statement - minimal element of intersection of sets]]
+3. [[Statement - maximal element of union of sets]]
+4. [[Statement - maximal element of intersection of sets]]
+5. [[Statement - identity of union of sets]]
+6. [[Statement - identity of intersection of sets]]
+7. [[Statement - union of sets is commutative]]
+8. [[Statement - intersection of sets is commutative]]
+9. [[Statement - union of sets is associative]]
+10. [[Statement - intersection of sets is associative]]
+11. [[Statement - union and intersection of sets is distributive]]
+12. [[Statement - partition of sets]]
+13. [[Statement - De Morgan Laws]]
