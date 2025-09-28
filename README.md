@@ -14,4 +14,4 @@ Each note is either:
 Almost every statement note file contains a proof for that statement, with links to statements, axioms, and definitions it depends on.
 
 ## Purpose
-The goal is to have a collection of notes that link to each other to form a kind of dependency tree.
+Going through the textbook and creating a collection of notes that link to each other to form a kind of dependency tree.
